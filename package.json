@@ -1,0 +1,15 @@
+{
+  "name": "note-pic",
+  "version": "1.0.0",
+  "description": "canvas application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote -v https://github.com/beerobinson/Note-pic.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
